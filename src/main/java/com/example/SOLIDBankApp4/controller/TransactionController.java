@@ -1,4 +1,4 @@
-package com.example.SOLIDBankApp4.controller;
+package com.example.SOLIDBankApp4.service.controller;
 
 import com.example.SOLIDBankApp4.entity.transaction.Transaction;
 import com.example.SOLIDBankApp4.service.TransactionListingService;
